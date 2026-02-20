@@ -20,37 +20,37 @@
 
 <g fill="#00ffa3" fill-opacity="1" stroke="#00ffa3" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="19" font-family="Times New Roman" font-size="15" font-weight="700" font-style="normal" 
+<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="19" font-family="Segoe UI" font-size="15" font-weight="700" font-style="normal" 
  >Status :</text>
 </g>
 
 <g fill="#cccccc" fill-opacity="1" stroke="#cccccc" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="49" y="19" font-family="Times New Roman" font-size="15" font-weight="400" font-style="normal" 
+<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="52" y="19" font-family="Segoe UI" font-size="15" font-weight="400" font-style="normal" 
  > Ongoing</text>
 </g>
 
 <g fill="#00ffa3" fill-opacity="1" stroke="#00ffa3" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="47" font-family="Times New Roman" font-size="15" font-weight="700" font-style="normal" 
+<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="46" font-family="Segoe UI" font-size="15" font-weight="700" font-style="normal" 
  >Rate :</text>
 </g>
 
 <g fill="#cccccc" fill-opacity="1" stroke="#cccccc" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="40" y="47" font-family="Times New Roman" font-size="15" font-weight="400" font-style="normal" 
+<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="40" y="46" font-family="Segoe UI" font-size="15" font-weight="400" font-style="normal" 
  > 4-7 Ch/Week</text>
 </g>
 
 <g fill="#00ffa3" fill-opacity="1" stroke="#00ffa3" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="75" font-family="Times New Roman" font-size="15" font-weight="700" font-style="normal" 
+<text fill="#00ffa3" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="73" font-family="Segoe UI" font-size="15" font-weight="700" font-style="normal" 
  >Author :</text>
 </g>
 
 <g fill="#cccccc" fill-opacity="1" stroke="#cccccc" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
 >
-<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="55" y="75" font-family="Times New Roman" font-size="15" font-weight="400" font-style="normal" 
+<text fill="#cccccc" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="73" font-family="Segoe UI" font-size="15" font-weight="400" font-style="normal" 
  > SeniorDiv</text>
 </g>
 
