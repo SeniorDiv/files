@@ -5,7 +5,7 @@
         
         <!-- Cover Image -->
         <div style="flex: 1 1 250px !important; min-width: 200px !important;">
-            <img src="https://www.royalroadcdn.com/public/covers-large/152698-scream-of-reality.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover !important; border-right: 2px solid #cca53f !important; display: block !important; border-radius: 15px 0px 0px 0px !important;" alt="Scream of Reality Cover">
+            <img src="https://seniordiv.github.io/files/novels/1/cover.jpg" style="width: 100% !important; height: 100% !important; object-fit: cover !important; border-right: 2px solid #cca53f !important; display: block !important; border-radius: 15px 0px 0px 0px !important;" alt="Scream of Reality Cover">
         </div>
         
         <!-- Title & Buttons -->
