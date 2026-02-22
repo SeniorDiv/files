@@ -9,7 +9,7 @@
         </div>
         
         <!-- Title & Buttons -->
-        <div style="flex: 50 1 250px !important; padding: 25px !important; display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important; text-align: center !important; background: radial-gradient(circle at top right, #1a1a24 0%, #0d0d0d 70%) !important; border-radius: 0px 15px 0px 0px !important;">
+        <div style="flex: 25 1 250px !important; padding: 25px !important; display: flex !important; flex-direction: column !important; justify-content: center !important; align-items: center !important; text-align: center !important; background: radial-gradient(circle at top right, #1a1a24 0%, #0d0d0d 70%) !important; border-radius: 0px 15px 0px 0px !important;">
             
             <!-- Deco Line -->
                 <div
